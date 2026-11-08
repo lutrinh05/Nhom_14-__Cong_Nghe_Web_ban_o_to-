@@ -1,0 +1,22 @@
+body {
+    text-decoration: 30%;
+    border: 10px solid black;
+    background-color: bisque;
+   color: blueviolet
+}
+.list ul {
+    color: red;
+    text-align: center;
+    border: 10px solid blue;
+    margin: 30px 30px 30px 30px;
+    padding-right: 100px;
+}
+.list li {
+    border: dashed 5px green;
+    padding-right: 100px;
+}
+.list li:nth-child(1){
+    color: black;
+}
+
+

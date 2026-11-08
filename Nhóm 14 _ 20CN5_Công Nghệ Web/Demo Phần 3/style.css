@@ -1,0 +1,22 @@
+h1 {
+    color: red;    
+}
+
+
+ul {
+    position: relative;
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+    background-color: plum;
+}
+li {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+   
+}
+li:hover {
+    background-color: rgb(255, 0, 43);
+}
